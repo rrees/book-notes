@@ -1,2 +1,3 @@
-# book-notes
-An experiment with blogging with Vuepress
+# Book notes
+
+A collection of notes about books I'm reading.
