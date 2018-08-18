@@ -11,3 +11,4 @@ People in a locked-in state were happier with their lives than healthy people wh
 
 Brains consist of the neurons and the links between them. Both are important but the results of losing one and not the other are still being explored.
 
+Unusually this book also has its [own website](http://intothegrayzone.com/). Some of the events the book described were also filmed for documentaries or news programs and the clips are available for free on the site.
